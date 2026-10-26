@@ -1,0 +1,46 @@
+=== PAGE 1 ===
+SIVASUDHAN E
+8144337544 | sivasudhanoffical@gmail.com | linkedin.com/in/sivasudhan-e-4470862a5 | github.com/Sivasudhan13
+PROFESSIONAL SUMMARY
+B.Tech Information Technology student (CGPA 7.9/10) with hands-on experience in the MERN stack, React Native, Python, and AWS, 
+including a 3-month Full Stack MERN Developer internship at ITBoomi Innovative Technology, Tirupur. Skilled in building full-stack 
+web and mobile applications, with practical exposure to REST API design (including FastAPI), SQL and NoSQL databases, UI/UX 
+principles, and cloud fundamentals. Active hackathon participant (multiple 24-hour and 36-hour hackathons) and frequent technical 
+seminar/PPT presenter. Seeking a Full Stack Developer or Software Engineer role to contribute to production-grade software.
+INTERNSHIP EXPERIENCE
+Full Stack MERN Developer Intern — ITBoomi Innovative Technology, Tirupur 3 Months
+● Worked on 3 live/real-world projects across the full development lifecycle — requirement analysis, UI design, backend 
+integration, and deployment.
+● Built and maintained RESTful APIs using Node.js and Express.js, and designed MongoDB schemas for efficient data storage 
+and retrieval.
+● Developed responsive React.js components and integrated frontend interfaces with backend services for seamless data flow.
+● Collaborated with senior developers using Git/GitHub for version control and code reviews; debugged and optimized modules 
+under real deadlines.
+TECHNICAL SKILLS
+Languages: Java, JavaScript, Python, HTML5, CSS3, SQL
+Frontend: React.js, React Native, Tailwind CSS
+Backend: Node.js, Express.js, FastAPI
+Database: MongoDB, SQL
+Tools & Platforms: Git, GitHub, AWS, Figma, VS Code
+Core: Data Structures & Algorithms, REST APIs, UI/UX Design, Web3
+PROJECTS
+MERN Notes Application
+● Built a full-stack note-taking application using React.js, Node.js, Express.js, and MongoDB with create, edit, delete, and 
+organize functionality and RESTful CRUD APIs.
+Car Marketplace (MERN)
+● Developed a full-stack car marketplace enabling users to list, browse, and search vehicle listings, with RESTful backend 
+services and a React.js frontend.
+Student Management System
+● Built a full-stack student management system using FastAPI, PostgreSQL, and React.js to manage student records, attendance, 
+and academic data through RESTful APIs.
+EDUCATION
+B.Tech, Information Technology — RVS College of Engineering and Technology 2023 – 2027
+CGPA: 7.9 / 10
+CERTIFICATIONS
+MERN Stack Development • UI/UX Design • AWS Cloud Fundamentals
+ACHIEVEMENTS
+● Second Prize — College Hackathon
+● Participated in multiple 24-hour and 36-hour hackathons, building functional prototypes under tight time constraints
+● Active participant in multiple technical seminar/PPT presentations; Best Seminar Presenter Award
+SOFT SKILLS
+Problem Solving • Teamwork • Communication • Leadership • Time Management
